@@ -1,0 +1,6 @@
+[submodule "CustomerApp-Backend"]
+	path = CustomerApp-Backend
+	url = https://github.com/Prsingh9/CustomerApp-Backend.git
+[submodule "CustomerApp-React"]
+	path = CustomerApp-React
+	url = https://github.com/Prsingh9/CustomerApp-React.git
